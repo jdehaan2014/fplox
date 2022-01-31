@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="paslox.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos Y="80"/>
+        <UsageCount Value="219"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uchunk.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uChunk"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="25"/>
+        <CursorPos X="19" Y="11"/>
+        <UsageCount Value="219"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umemory.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uMemory"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="39"/>
+        <CursorPos Y="59"/>
+        <UsageCount Value="219"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uvalue.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uValue"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="19"/>
+        <CursorPos X="3" Y="301"/>
+        <UsageCount Value="219"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="udebug.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uDebug"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="3"/>
+        <CursorPos X="21" Y="113"/>
+        <UsageCount Value="217"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uvm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uVM"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="491"/>
+        <CursorPos X="19" Y="434"/>
+        <UsageCount Value="211"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ucompiler.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uCompiler"/>
+        <EditorIndex Value="9"/>
+        <CursorPos X="18" Y="8"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uscanner.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uScanner"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="46"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ucommon.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uCommon"/>
+        <EditorIndex Value="11"/>
+        <TopLine Value="13"/>
+        <CursorPos Y="12"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uobject.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uObject"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="34" Y="17"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="utable.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uTable"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="28"/>
+        <CursorPos X="23" Y="33"/>
+        <UsageCount Value="219"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unative.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uNative"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="13"/>
+        <CursorPos X="74" Y="28"/>
+        <UsageCount Value="214"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../H24_calls_func_old/uvm.pas"/>
+        <UnitName Value="uVM"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="253"/>
+        <CursorPos X="41" Y="383"/>
+        <UsageCount Value="30"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../ProjectCompilerNew/uobjects.pas"/>
+        <UnitName Value="uObjects"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="100"/>
+        <CursorPos Y="136"/>
+        <UsageCount Value="2"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="uvalue.pas"/>
+        <Caret Line="118" Column="27" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="uvalue.pas"/>
+        <Caret Line="108" Column="28" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="uvalue.pas"/>
+        <Caret Line="162" Column="20" TopLine="124"/>
+      </Position>
+      <Position>
+        <Filename Value="uvalue.pas"/>
+        <Caret Line="86" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="uvalue.pas"/>
+        <Caret Line="285" Column="24" TopLine="256"/>
+      </Position>
+      <Position>
+        <Filename Value="uvalue.pas"/>
+        <Caret Line="237" Column="19" TopLine="216"/>
+      </Position>
+      <Position>
+        <Filename Value="uvalue.pas"/>
+        <Caret Line="97" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="uvalue.pas"/>
+        <Caret Line="52" Column="30" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="uobject.pas"/>
+        <Caret Line="442" TopLine="422"/>
+      </Position>
+      <Position>
+        <Filename Value="uvalue.pas"/>
+        <Caret Line="302" Column="7" TopLine="278"/>
+      </Position>
+      <Position>
+        <Filename Value="unative.pas"/>
+        <Caret Line="307" TopLine="295"/>
+      </Position>
+      <Position>
+        <Filename Value="unative.pas"/>
+        <Caret Line="325" Column="22" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="unative.pas"/>
+        <Caret Line="322" Column="82" TopLine="309"/>
+      </Position>
+      <Position>
+        <Filename Value="unative.pas"/>
+        <Caret Line="325" TopLine="299"/>
+      </Position>
+      <Position>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="902" TopLine="862"/>
+      </Position>
+      <Position>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="866" TopLine="852"/>
+      </Position>
+      <Position>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="334" Column="51" TopLine="295"/>
+      </Position>
+      <Position>
+        <Filename Value="unative.pas"/>
+        <Caret Line="313" Column="7" TopLine="302"/>
+      </Position>
+      <Position>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="890" Column="23" TopLine="868"/>
+      </Position>
+      <Position>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="454" Column="33" TopLine="423"/>
+      </Position>
+      <Position>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="444" Column="41" TopLine="421"/>
+      </Position>
+      <Position>
+        <Filename Value="uobject.pas"/>
+        <Caret Line="152" Column="18" TopLine="121"/>
+      </Position>
+      <Position>
+        <Filename Value="uobject.pas"/>
+        <Caret Line="153" Column="18" TopLine="109"/>
+      </Position>
+      <Position>
+        <Filename Value="uobject.pas"/>
+        <Caret Line="320" TopLine="306"/>
+      </Position>
+      <Position>
+        <Filename Value="uvalue.pas"/>
+        <Caret Line="52" Column="20" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="459" Column="92" TopLine="430"/>
+      </Position>
+      <Position>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="446" Column="20" TopLine="434"/>
+      </Position>
+      <Position>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="855" Column="11" TopLine="836"/>
+      </Position>
+      <Position>
+        <Filename Value="uvm.pas"/>
+        <Caret Line="375" TopLine="338"/>
+      </Position>
+      <Position>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="8" Column="18"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

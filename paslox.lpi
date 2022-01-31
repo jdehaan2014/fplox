@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="12"/>
+    <General>
+      <Flags>
+        <MainUnitHasUsesSectionForAllUnits Value="False"/>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasTitleStatement Value="False"/>
+        <MainUnitHasScaledStatement Value="False"/>
+      </Flags>
+      <SessionStorage Value="InProjectDir"/>
+      <Title Value="paslox"/>
+      <UseAppBundle Value="False"/>
+      <ResourceType Value="res"/>
+    </General>
+    <BuildModes>
+      <Item Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+      <UseFileFilters Value="True"/>
+    </PublishOptions>
+    <RunParams>
+      <FormatVersion Value="2"/>
+    </RunParams>
+    <Units>
+      <Unit>
+        <Filename Value="paslox.lpr"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uchunk.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uChunk"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umemory.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uMemory"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uvalue.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uValue"/>
+      </Unit>
+      <Unit>
+        <Filename Value="udebug.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uDebug"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uvm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uVM"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ucompiler.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uCompiler"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uscanner.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uScanner"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ucommon.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uCommon"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uobject.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uObject"/>
+      </Unit>
+      <Unit>
+        <Filename Value="utable.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uTable"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unative.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uNative"/>
+      </Unit>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <Target>
+      <Filename Value="paslox"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <UnitOutputDirectory Value="lib/$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <Parsing>
+      <SyntaxOptions>
+        <AllowLabel Value="False"/>
+      </SyntaxOptions>
+    </Parsing>
+    <CodeGeneration>
+      <SmartLinkUnit Value="True"/>
+      <SmallerCode Value="True"/>
+    </CodeGeneration>
+    <Linking>
+      <Debugging>
+        <GenerateDebugInfo Value="False"/>
+        <StripSymbols Value="True"/>
+      </Debugging>
+      <LinkSmart Value="True"/>
+    </Linking>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions>
+      <Item>
+        <Name Value="EAbort"/>
+      </Item>
+      <Item>
+        <Name Value="ECodetoolError"/>
+      </Item>
+      <Item>
+        <Name Value="EFOpenError"/>
+      </Item>
+    </Exceptions>
+  </Debugging>
+</CONFIG>
