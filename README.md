@@ -8,6 +8,7 @@ Added some of the optimizations:
 - switch statement
 - conditional expressions: print x == 5 ? "5" : nil;
 - break and continue in loops
+- interpolated strings, e.g. "this is $(2*21)."
 
 also added:
 
