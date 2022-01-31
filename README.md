@@ -1,6 +1,6 @@
 # fplox
-Free Pascal (and Lazarus) implementation of clox bytecode virtual machine from the book Crafting Interpreters
-(https://www.lazarus-ide.org)
+Free Pascal (and Lazarus) implementation of clox bytecode virtual machine from the book Crafting Interpreters  
+Free Pascal and Lazarus: https://www.lazarus-ide.org
 
 Added some of the optimizations:
 - nan-boxing
