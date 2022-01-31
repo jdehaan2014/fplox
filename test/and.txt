@@ -1,0 +1,1 @@
+print false and (6>5);
