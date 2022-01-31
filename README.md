@@ -1,5 +1,6 @@
 # fplox
-Free Pascal implementation of clox bytecode virtual machine from the book Crafting Interpreters
+Free Pascal (and Lazarus) implementation of clox bytecode virtual machine from the book Crafting Interpreters
+(https://www.lazarus-ide.org)
 
 Added some of the optimizations:
 - nan-boxing
@@ -12,10 +13,10 @@ also added:
 
 - arrow functions, e.g. 
 
-fun add(a,b) -> a+b
-fun sub(a,b) -> a-b
-fun mul(a,b) -> a*b
-fun div(a,b) -> a/b
+fun add(a,b) -> a+b  
+fun sub(a,b) -> a-b  
+fun mul(a,b) -> a*b  
+fun div(a,b) -> a/b  
 
 print add(32,10);
 print sub(52,10);
