@@ -1,0 +1,8 @@
+fun noReturn() {
+  print "Do stuff";
+  // No return here.
+}
+
+//print noReturn(); // ???
+noReturn();
+

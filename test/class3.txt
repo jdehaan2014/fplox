@@ -1,0 +1,32 @@
+
+class Pair {}
+
+var pair = Pair();
+pair.first = 1;
+pair.second = 2;
+print pair.first + pair.second; // 3.
+
+pair.third = 3;
+
+if (hasField(pair, "third")) {
+  print pair.third;
+} 
+
+var a = hasField(pair, "fourth");
+print a;
+
+if (!hasField(pair, "fourth")) {
+  print "no such thing";
+} 
+
+print getField(pair, "third");
+print getField(pair, "fourth");
+
+setField(pair, "five", 5);
+print pair.five;
+
+//setField(pair, "six");
+
+delField(pair, "five");
+print hasField(pair,"five");
+ 

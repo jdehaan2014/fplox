@@ -1,0 +1,5 @@
+
+class Toast {}
+var toast = Toast();
+print toast.jam = "grape"; 
+print toast.jam;

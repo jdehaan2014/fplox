@@ -1,0 +1,4 @@
+var drink = "tea";
+var steep = 4;
+var cool = 2;
+print "Yes, $(drink) will be ready in $(steep + cool) minutes.";

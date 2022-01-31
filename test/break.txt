@@ -1,0 +1,5 @@
+for (var x = 0; ; x=x+1) {
+  print x;
+  if (x==10) break;
+}
+

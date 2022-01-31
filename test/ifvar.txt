@@ -1,0 +1,7 @@
+
+if (var x = 5; x!=5)
+  print x;
+else
+  print x-1;
+
+print "OK";

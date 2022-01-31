@@ -1,0 +1,7 @@
+
+class Brioche {}
+
+print Brioche;
+//print Brioche();
+var brioche = Brioche();
+print brioche;

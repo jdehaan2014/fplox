@@ -1,0 +1,8 @@
+var x = 5;
+
+print x == 5 ? "5" : nil;
+
+
+var y = x!=5? x : "sorry";
+
+print y;

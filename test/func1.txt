@@ -1,0 +1,13 @@
+
+var a = 9;
+var b = 8;
+
+fun add(c,d){
+  var z = c+d;
+  return z;
+}
+
+
+print add(a,b);
+print add(33,9);
+

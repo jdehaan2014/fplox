@@ -1,0 +1,10 @@
+
+while (var x = 6; x>0) {
+  x = x-1;
+  print x;
+}
+
+var x = 7;
+print x;
+
+

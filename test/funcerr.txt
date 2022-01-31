@@ -1,0 +1,7 @@
+fun c() {
+  c("too", "many");
+}
+fun b() { c(); }
+fun a() { b(); }
+
+a();

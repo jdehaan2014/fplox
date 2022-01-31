@@ -1,0 +1,13 @@
+var a = 3;
+var b = 7;
+var c = 13;
+
+{
+  var b = 9;
+  print a + b + c;
+}
+
+print a+b+c;
+
+
+

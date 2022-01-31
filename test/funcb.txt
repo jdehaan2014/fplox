@@ -1,0 +1,15 @@
+//closure
+
+fun echo(x){
+
+  fun say(it){
+    print it;
+  }
+
+  say(x);
+}
+
+
+echo("Hello");
+
+

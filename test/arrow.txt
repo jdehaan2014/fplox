@@ -1,0 +1,12 @@
+fun add(a,b) -> a+b
+fun sub(a,b) -> a-b
+fun mul(a,b) -> a*b
+fun div(a,b) -> a/b
+
+print add(32,10);
+print sub(52,10);
+print mul(6,7);
+print div(84,2);
+
+
+

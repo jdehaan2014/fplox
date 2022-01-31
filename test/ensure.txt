@@ -1,0 +1,10 @@
+var x = 10;
+
+ensure var y = 11; y<x else 
+  print "error";
+
+
+
+
+
+
